@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "windy-bearing-181309",
+  "private_key_id": "abc0d27b79f7c026c576ccd849b70f4fc0ad19d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo+/DToNlAhMsl\n0DPUE2XuOQYidYYCsNChCe/UAvjAd9B5s6BNd5tznlAxRa03kRyVa5+19mQ1K8HG\nUjDf+wXqXB96o8mmAGNizWEnCn6qWC4lx5cOfX/zhA9Ifp4oAjR3z/R+xt0ZvgQH\nGb2Y4Q/9NS7wssKv/vpaRm2U2x2CIrcK35xro5NqCEtxdu5FinlIZXy4rWy9wIPj\nhvtNT0f2QraGRVs3VwcW9wRQMia/Ekj10E5eDgbJMGjCeWFRb4IGQ8aS4wof0cUi\njy1XdZe7poQZpF6kHKkdUKPCwqZYs9SD/dUDoFJJpPbw0qG++sXowK8yBDZaxt79\n4tuRTdXxAgMBAAECggEADR2EuwAkbHgCBlzK8P5SbnNZkQobDRFpF96cERHr+ZAz\nC4cP/YM3evlCExjr0UC/fa9dNXO6ok/Tmc9eQLwMYPymas/UgkBMdmonTK7pVtJC\nPqdnh3XhHObWgtNk9gj5xoTK3p4TogBX8q8iQn/RTF841fCh4KQDDUejEKcS+rsT\ngJAEocMoqNcZJt2PVCgA0C67+IafGsiufyJVYxG0Ge9/ObIrmBi1mywozIhGYaHN\n/RLvDx+zT7fh5FSEb73XaPlGNldAJO4guJBp+oRQ2jhKTweW3pL1KSN+mATkVxuw\nF3EbrBwMjvzAZypmsS+CaxkpivHVXzQ3FIyxyqWDCwKBgQDq3FzdfpShvoOb+Ifk\ncVE19btln7AhUN3BU1DaNrRunUcHcm3JcTRBg8ZXDeDOePo9PjfMfdFUVBj9DnbN\n9cix7L8X/OseMYi0rSDkzef5wq61k3uYedRN9VVNkSx6BFKk7PB0dMUbp7vrRCcP\n1ONApNk54DtE5wBFYkAhFO/IpwKBgQC4MafA0wx051jMdsJJLsZJh3uNlbnYx6pa\nFsZ/b3tcBUfS89zwqAx9qQt8IMUBgsGss5k0isPPMxMpj0ylnVE+1Vz2ebXdeil5\nnLS+Amd5Wy2uzO1qbomyZa19oELvgbMjGhMVdKyGRtlZL4+4SUEjPla0QDnqoXhs\noBnkHbunpwKBgQDopHxA06A7T9Jib598xFrjjpSgp7v6ZHYliHgwj7vPTnALimgC\nAOb4dqXDmfWz0NZgT/9Jyt/OHrfaA7ffcLXquU7ZXikwcXSvNEe/Hc/J8fTJ3Fuz\nwApzZq+m9EUQYLPUtvfBA+Iz8MUO2SWwYvrxD9o1oE5VhFUaZaaMnoafRQKBgGww\nTlZGIITx9ghyoP+XR8ScnYe2MCkSbg7oXcMwWgbc2ykfL+Dy9BNDHYnVPaH7iYLF\nIvHnp8emOlUo5F5KnxQHAsmLB7WFMaNK1ibdBqYTVivcFn9zWdG9Q0AMyAQh7HRr\ntlXd6BAewT9PXl1iOa5XyVmqd9pG6ZL0HwEMLdL1AoGAQxz/8oT6O2CZsK67YkCM\nbe/K2ujD8PztuVB6N3vvULfdQ+zPUFdA6Ixs1SVj+UvPCJX25v8aGEltLf5rqzND\nuudAIC5XrOwr9V/MObl50gg20zmml+w/VCE6u+D76dz+3+v4xSyEf/il28XZ0FwJ\n/rKWPkexX/h8jriJWEkInn4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myserviceacct@windy-bearing-181309.iam.gserviceaccount.com",
+  "client_id": "110537681470991450195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myserviceacct%40windy-bearing-181309.iam.gserviceaccount.com"
+}
